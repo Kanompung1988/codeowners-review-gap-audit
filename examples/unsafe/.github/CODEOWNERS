@@ -1,0 +1,3 @@
+* @platform
+/.github/workflows/
+/.github/CODEOWNERS @security

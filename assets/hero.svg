@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-label="CODEOWNERS review gap audit, paths and reviewer rules">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1929"/><stop offset="1" stop-color="#103E48"/></linearGradient></defs>
+<rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+<g stroke="#00D9FF" stroke-opacity=".28" stroke-width="2"><path d="M722 90h150M722 192h150M722 295h150"/></g>
+<g fill="#082535" stroke="#00D9FF" stroke-width="2"><rect x="690" y="55" width="210" height="75" rx="14"/><rect x="690" y="154" width="210" height="75" rx="14"/><rect x="690" y="253" width="210" height="75" rx="14"/></g>
+<g font-family="Arial,sans-serif" fill="#F8FFFF"><text x="75" y="107" font-size="19" letter-spacing="5" fill="#00D9FF">AREAZERO / REVIEW INTELLIGENCE</text><text x="75" y="182" font-size="48" font-weight="700">CODEOWNERS</text><text x="75" y="243" font-size="48" font-weight="700">REVIEW GAP AUDIT</text><text x="75" y="300" font-size="20" fill="#B2CBD3">Know which critical paths have no review owner.</text><text x="713" y="102" font-size="19">.github/workflows</text><text x="714" y="201" font-size="19">infrastructure/</text><text x="714" y="301" font-size="19">dependency locks</text></g>
+<g stroke="#00FFA3" stroke-width="4" fill="none"><path d="M934 81l14 13 24-28"/><path d="M934 180l14 13 24-28"/></g><g stroke="#FFAA79" stroke-width="4"><path d="M940 278l27 28m0-28l-27 28"/></g>
+</svg>
